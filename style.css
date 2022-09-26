@@ -182,10 +182,4 @@ body{
     color: var(--cor-de-fundo);
 }
 
-.container__botao a:active{
-    color: violet;
-     
-     }
-     .dispositivos h3:hover {
-        border-color: bisque;
-    }
+
